@@ -6,7 +6,7 @@ b06902048	資工三	李峻宇
 
 Screenshot:
 
-![](/Users/lijunyu/NTU/108-1/CN/hw1/UDP.png)
+![](./UDP.png)
 
 I used wireshark while I was watching youtube vedio by google chrome. Youtube usually provides lots of vedioes to watch.
 
@@ -34,7 +34,7 @@ I used wireshark while I was watching youtube vedio by google chrome. Youtube us
 
 Screenshot : 
 
-![](/Users/lijunyu/NTU/108-1/CN/hw1/TCP.png)
+![](./TCP.png)
 
  The port which the server used for this application is 2769. We can find it in Source IP in the screenshot.
 
@@ -72,7 +72,7 @@ But there is something only exixting in TCP, like sequence number,  ACK informat
 
 Screenshot:
 
-![](/Users/lijunyu/NTU/108-1/CN/hw1/plaintext.png)
+![](./plaintext.png)
 
 I connected to `eney.com` and change the URL from `https:` to `http:` , and then loginned while wireshark openning. We can find our `username` and `password` in this packets, so can someone do, that is why it is unsaft.
 
